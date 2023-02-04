@@ -3,3 +3,4 @@ This is a school assignment , the Objectives are to: <br>
 2. make use of and query language for the database in this case SQL was use.<br>
 3. link both together.<br>
 4. Implement the CRUD method (Create, Read, Update, Delete).
+5. check back for update soon as we intend to add more features to this program.................:)
